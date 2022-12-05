@@ -59,3 +59,5 @@ Here are the instructions that were given;
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 ```
+
+For the bonus step at the end, this site had great info to get my local files pushed up to a new repo - https://www.freecodecamp.org/news/pushing-to-github-made-simple-enough-for-poets/
