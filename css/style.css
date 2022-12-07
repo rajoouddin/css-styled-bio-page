@@ -18,14 +18,17 @@ h1 {
     padding: 20px 0;
 }
 
-.container {
-    /* margin: 0 auto; */
-    line-height: 1.5;
-    margin: 0 50px;
-}
-
 h2 {
     font-size: 24px;
+}
+
+a {
+    color: #d21034;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
 }
 
 #main-bio, 
@@ -45,8 +48,4 @@ h2 {
 
 #contact-info {
     width: 30%;
-}
-
-a {
-    color: #d21034;
 }
